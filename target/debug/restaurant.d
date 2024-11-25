@@ -1,0 +1,1 @@
+C:\Users\ander\OneDrive\Área\ de\ Trabalho\RS\03_restaurant\target\debug\restaurant.exe: C:\Users\ander\OneDrive\Área\ de\ Trabalho\RS\03_restaurant\src\lib.rs C:\Users\ander\OneDrive\Área\ de\ Trabalho\RS\03_restaurant\src\main.rs
